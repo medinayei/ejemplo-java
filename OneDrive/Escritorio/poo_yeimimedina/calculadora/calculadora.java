@@ -11,5 +11,8 @@ public class Calculadora {
      double totalMultiplicacion = numeroDecimal1 * numeroDecimal2 ;
       double totalDivision= numeroDecimal1 / numeroDecimal2 ;
       System.out.println ("El resultado de sumar los 2 numeros que ingresaste es " + totalSuma);
+      System.out.println ("El resultado de restar los 2 numeros que ingresaste es " + totalResta);
+      System.out.println ("El resultado de multiplicar los 2 numeros que ingresaste es " + totalMultiplicacion);
+      System.out.println ("El resultado de dividir los 2 numeros que ingresaste es " + totalDivision);
     }
 }
